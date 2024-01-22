@@ -6,7 +6,7 @@ let intentos = 1;
 //let palabraVeces = 'vez';
 let maximosIntentos = 5;
 
-console.log (numeroSecreto)
+//console.log (numeroSecreto)
 
 while (numeroUsuario != numeroSecreto) {
     numeroUsuario = parseInt(prompt(`Me indicas un número entre 1 y ${numeroMaximoPosible} por favor:`));
